@@ -1,10 +1,10 @@
 {
-  "name": "@philipptrenz/photo-booth",
-  "version": "1.4.4",
+  "name": "@daleth/photo-booth",
+  "version": "1.4.4.1",
   "description": "A multi-platform photo booth software using Electron and your camera",
   "main": "scripts/es6-init.js",
   "author": {
-    "name": "Philipp Trenz"
+    "name": "Philipp Trenz, David Nowak"
   },
   "license": "GPL-3.0",
   "os": [
@@ -53,7 +53,7 @@
     "gphoto2": "^0.3.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.1",
-    "sharp": "^0.20.1",
+    "sharp": "^0.22.1",
     "socket.io": "^1.7.0"
   },
   "optionalDependencies": {
